@@ -1,7 +1,3 @@
-torch
-langchain
-langchain-community
-tqdm
-accelerate
-pypdf
-faiss-gpu
+dG9yY2gKdHJhbnNmb3JtZXJzCnNlbnRlbmNlLXRyYW5zZm9ybWVycwpsYW5n
+Y2hhaW4KbGFuZ2NoYWluLWNvbW11bml0eQp0cWRtCmFjY2VsZXJhdGUKcHlw
+ZGYKZmFpc3MtZ3B1
